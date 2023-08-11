@@ -15,3 +15,8 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 db=SQLAlchemy(app)
 
 Migrate(app,db)
+
+
+
+
+
